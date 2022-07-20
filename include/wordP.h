@@ -1,0 +1,7 @@
+#ifndef WORD_PROCESSOR_H
+#define WORD_PROCESSOR_H
+
+
+
+
+#endif //WORD_PROCESSOR_H
